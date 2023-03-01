@@ -2,7 +2,7 @@
   <h3>Mi diccionario</h3>
 <hr>
 <h2>Mi link de Github<h2>
-  <a href =" "
+  <a href =" " target="blank">Mi link </a>
   
 
 
